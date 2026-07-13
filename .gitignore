@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# User Data (Private screen history & SQLite database)
+data/snapshots/
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+
+# Private User Configuration File
+.env
+
+# System Files
+.DS_Store
+Thumbs.db

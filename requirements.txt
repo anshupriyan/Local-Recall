@@ -1,0 +1,17 @@
+mss==10.2.0
+Pillow==12.3.0
+imagehash==4.3.2
+winrt-Windows.Media.Ocr==3.2.1
+winrt-Windows.Graphics.Imaging==3.2.1
+winrt-Windows.Storage.Streams==3.2.1
+winrt-Windows.Storage==3.2.1
+winrt-Windows.Foundation==3.2.1
+sentence-transformers==5.6.0
+sqlite-vec==0.1.9
+requests==2.34.2
+Flask==3.0.3
+python-dotenv==1.2.2
+
+
+
+
