@@ -1,10 +1,9 @@
 # Local Recall
 
-> [!WARNING]
-> **Project Status: Early Prototype under Active Development**  
-> This repository is an early proof-of-concept and is under active development. APIs, database schemas, and workflows are subject to change.
+A 100% local, privacy-first alternative to Windows Recall — captures your screen, OCRs it, and lets you semantically search and chat with your history using a local LLM. Zero cloud, zero data leakage.
 
-Local Recall is a fully local, privacy-first alternative to Microsoft Recall. It runs entirely on your own machine, capturing screen snapshots, extracting text, generating vector embeddings, and allowing you to conversate with your screen history using a local Large Language Model (LLM).
+> **Project Status: Early Prototype under Active Development**
+> This repository is an early proof-of-concept and is under active development. APIs, database schemas, and workflows are subject to change.
 
 
 ---
